@@ -20,8 +20,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Word!
-        <p> Darcisio Almeida - DEV </p>
+          Bem vindo! Olá, Mundo!
+        <p> Darcisio Almeida - DEV 2021 </p>
         </a>
       </header>
       <Footer/>
