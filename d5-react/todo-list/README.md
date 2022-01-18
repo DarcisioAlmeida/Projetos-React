@@ -2,7 +2,7 @@
 
 O Projeto é baseado no Curso de React d5-react do [B7Web](https://b7web.com.br/fullstack/).
 
-![Ignite](./public/todo-list.png 'todo-list') <br>
+![TodoList](./public/todo-list.png 'todo-list') <br>
 
 # 💻 Sobre o desafio
 
