@@ -19,6 +19,13 @@ O template está disponível na seguinte URL:
 1. criação = npx create-react-app expense-tracker --template typescript
 2. instalar styled componentes = npm install styled-components
 3. instalar styled components p/ typescript = npm install -D @types/styled-components
+4. Iniciando o APP.txs
+5. Criando arquivo App.styles.ts
+6. Criada pasta data e arquivo items.ts
+7. Criada pasta types e arquivo Item.ts
+8. Criado arquivo categories.ts dentro pasta data
+9. Criado arquivo Category.ts dentro pasta types
+10. 
 
 ## Conceitos usados na aplicação?
 
