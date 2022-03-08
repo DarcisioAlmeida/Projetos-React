@@ -1,6 +1,6 @@
 # Sistema de finanças Pessoais em React com Typescript
 
-## Clone - Projeto Expenser Tracker B7Web
+## Clone - Projeto Expense-Tracker B7Web
 
 Esse repositório foi desenvolvido com base no curso de ReactJS B7Web <br>
 
@@ -25,7 +25,20 @@ O template está disponível na seguinte URL:
 7. Criada pasta types e arquivo Item.ts
 8. Criado arquivo categories.ts dentro pasta data
 9. Criado arquivo Category.ts dentro pasta types
-10. 
+10. Importar os itens 6 a 9 para o App.tsx
+11. Inserir o useState no App.tsx
+12. Criada a pasta helpers e o arquivo dateFilter.ts
+13. Inserindo dateFilter.ts ao arquivo App.tsx
+14. Utilizando useState (list, filderedList, currentMonth) e Use Effect
+15. Criando a Pasta Components
+16. Criando pasta TableArea e arquivos index.tsx e styles.ts
+17. Importando TableArea para App.tsx
+18. Criando Pasta TableItem e arquivos index.tsx e styles.ts
+19. Importando TableItem para TableArea
+20. Criada função formatedate na pasta helpers arquivo dateFilter
+21. Criando a pasta InfoArea e arquivos index.tsx e styles.ts
+22. Criada função formatCurrentMonth na pasta helpers arquivo dateFilter
+23. Criada as funções handlePrevMonth e handleNextMonth dentro de index.tsx InfoArea
 
 ## Conceitos usados na aplicação?
 
