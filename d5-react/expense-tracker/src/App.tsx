@@ -5,7 +5,7 @@ import { categories } from './data/categories';
 import { items } from './data/items';
 import { getCurrentMonth, filterListByMonth } from './helpers/dateFilter';
 import { TableArea } from './components/TableArea';
-//import { InfoArea } from './components/InfoArea';
+import { InfoArea } from './components/InfoArea';
 import { InputArea } from './components/InputArea';
 
 const App = () => {
@@ -48,7 +48,7 @@ const App = () => {
   return (
     <C.Container>
       <C.Header>
-        <C.HeaderText>Sistema Financeiro</C.HeaderText>
+        <C.HeaderText>Sistema Finanças Pessoais</C.HeaderText>
       </C.Header>
       <C.Body>
         {/* area de informações */}
